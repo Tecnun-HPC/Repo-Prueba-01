@@ -6,4 +6,6 @@ else
     disp('excelente');
 end
 
+my_function_01(x, 99);
+
 
