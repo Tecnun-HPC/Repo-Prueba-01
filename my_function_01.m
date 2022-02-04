@@ -10,6 +10,10 @@ function my_function_01(myInput01, myInput02)
 
     myVar2 = 2342;
     disp(num2str(myVar2));
+
+    %Esto es parte de mi algoritmo 2
+    myVar3 = 111222;
+    AAA = myVar3 * 2;
 end
 
 
