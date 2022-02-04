@@ -8,4 +8,6 @@ end
 
 my_function_01(x, 99);
 
+a = 123;
+b = a + 234234;
 
