@@ -14,6 +14,7 @@ function my_function_01(myInput01, myInput02)
     %Esto es parte de mi algoritmo 2
     myVar3 = 111222;
     AAA = myVar3 * 2;
+    BBB = 111222344;
 end
 
 
