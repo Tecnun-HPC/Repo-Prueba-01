@@ -12,3 +12,4 @@ a = 1230;
 b = a + 234234;
 
 c = 38239;
+d = 'Puesto en master';
