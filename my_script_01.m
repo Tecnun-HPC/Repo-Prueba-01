@@ -1,4 +1,4 @@
 if x < 3
-    disp('hello');
+    disp('bye');
 end
 
