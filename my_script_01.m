@@ -13,3 +13,5 @@ b = a + 234234;
 
 c = 38239;
 d = 'Puesto en master';
+
+AA = 'Avanzamos en el script';
