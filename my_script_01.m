@@ -12,3 +12,9 @@ a = 1230;
 b = a + 234234;
 
 c = 38239;
+d = 'Puesto en master';
+
+AA = 'Avanzamos en el script';
+x = x*2 + 3; %Estamos avanzando en el script principal.
+master-01
+master-02
