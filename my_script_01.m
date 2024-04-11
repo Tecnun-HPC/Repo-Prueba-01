@@ -16,3 +16,4 @@ d = 'Puesto en master';
 
 AA = 'Avanzamos en el script';
 disp('borradas cosas');
+ccc = 123; % Cambio desde user01
